@@ -35,8 +35,8 @@
   --doorhanger-icon-opacity: 0.9;
   --doorhanger-height: 8px;
 
-  --main-color: light-dark(rgb(12 12 13), rgb(249 249 250));
-  --body-bg-color: light-dark(rgb(212 212 215), rgb(42 42 46));
+  --main-color: light-dark(rgb(171, 119, 156), rgb(171, 119, 156));
+  --body-bg-color: light-dark(rgb(171, 119, 156), rgb(171, 119, 156));
   --progressBar-color: light-dark(rgb(10 132 255), rgb(0 96 223));
   --progressBar-bg-color: light-dark(rgb(221 221 222), rgb(40 40 43));
   --progressBar-blend-color: light-dark(rgb(116 177 239), rgb(20 68 133));

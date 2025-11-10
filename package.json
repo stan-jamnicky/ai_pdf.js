@@ -65,5 +65,10 @@
   "engines": {
     "node": ">=20.16.0 || >=22.3.0"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@openai/openai": "npm:@jsr/openai__openai@^6.8.1",
+    "dotenv": "^17.2.3",
+    "openai": "^6.8.1"
+  }
 }
